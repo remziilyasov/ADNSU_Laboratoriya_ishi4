@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hurricane&display=swap');
+body{
+    font-family: 'Montserrat';
+        color: black;
+        text-align: center;
+}
+
+
+.header-1{
+font-family: 'Hurricane';
+color: red;
+background-color: blanchedalmond;
+margin-left: 30%;
+border: 1px solid brown;
+width: 30%;
+text-align: center;
+}
+
+
+
+.uni {
+    color:blanchedalmond;
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 40%;
+    border: 1px solid black;
+    font-size: 14px;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    margin-bottom:50px;
+  }
+  .uni tr:hover {background-color: red;}
+
+#header {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    color: rgb(103, 74, 129);
+    text-align: center;
+  }
+  form{
+    color: rgb(78, 63, 44);
+    margin-bottom:50px;
+};
+
+  
+ 
